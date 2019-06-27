@@ -11,4 +11,7 @@ class Artist
   def self.all
     @@all
   end
+
+  def new_song(name, genre)
+  end
 end
